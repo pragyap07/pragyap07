@@ -58,9 +58,9 @@
     <a href="https://github.com/pragyap07">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pragyap07&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         <br>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RaniAsmit&layout=compact&langs_count=8&theme=algolia"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pragyap07&layout=compact&langs_count=8&theme=algolia"/>
         <br>
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RaniAsmit&theme=tokyonight"/>	
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pragyap07&theme=tokyonight"/>	
     </a>
 </p>
 
