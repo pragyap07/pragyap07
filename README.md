@@ -1,7 +1,7 @@
 <h2>नमस्ते 🙏🏻, I'm Pragya Pandey! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <h3 align="center">A Developer from India 🇮🇳 </h3>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Web Developer <img src="https://camo.githubusercontent.com/bf2041ee6107135b50cde02454394ab9e0c9dd2ca3baffb974add6c6d4f1bb10/68747470733a2f2f6d656469612e74656e6f722e636f6d2f3874725f4355363733304d41414141432f7765622d6465762d776562736974652d646576656c6f706d656e742e676966" width="30"> </em></p>
+<p><em>Web Developer <img src="https://camo.githubusercontent.com/ad38c424479dba43b6ded15fecfde6b53cf9fcd6ff3dc7715d5bcb43f8bbefb8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30"> </em></p>
 
 ---
 
